@@ -8,9 +8,10 @@
 
 ### 2.训练结果
 
-![](I:\paper_reproduction\DIS-paddleseg\log\Evaluate_f1.png)
-
-![](I:\paper_reproduction\DIS-paddleseg\log\Evaluate_mae.png)
+见output中的log文件
+```
+visualdl --logdir=log/
+```
 
 ### 3.训练步骤
 
